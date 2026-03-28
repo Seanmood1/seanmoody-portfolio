@@ -1,4 +1,8 @@
-google-site-verification=5oL3166vnQL2QkWfx_gPVeV_5fEn9Q2-NBSqcHwkMS0# seanmoody-portfolio
+<head>
+<meta name="google-site-verification" content="5oL3166vnQL2QkWfx_gPVeV_5fEn9Q2-NBSqcHwkMS0" />
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sean Moody - Portfolio & Store</title>seanmoody-portfolio
 Sean Moody Portfolio &amp; Store 
 seanmoody-website/      ← main folder (this is your package)
 ├── index.html           ← your main website file
