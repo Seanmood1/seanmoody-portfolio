@@ -1,4 +1,4 @@
-# seanmoody-portfolio
+google-site-verification=5oL3166vnQL2QkWfx_gPVeV_5fEn9Q2-NBSqcHwkMS0# seanmoody-portfolio
 Sean Moody Portfolio &amp; Store 
 seanmoody-website/      ← main folder (this is your package)
 ├── index.html           ← your main website file
